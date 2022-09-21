@@ -69,7 +69,7 @@ apt install wget -y
 git clone https://github.com/mrjuice01/Camera-Hack
 ```
 ```bash
-cd HACK-CAMERA
+cd Camera-Hack
 ```
 ```bash
 chmod +x hack_camera.sh (optional)
