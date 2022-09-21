@@ -66,7 +66,7 @@ apt install curl -y
 apt install wget -y
 ```
 ```bash
-git clone https://github.com/mrjuice01/HACK-CAMERA.git
+git clone https://github.com/mrjuice01/Camera-Hack
 ```
 ```bash
 cd HACK-CAMERA
